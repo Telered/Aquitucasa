@@ -1,0 +1,24 @@
+Hola mundo
+
+Para los ajenos a la programación, todo informático que comienza algo, lo hace con esa frase.
+
+HOLA MUNDO
+
+
+Este es el repositorio del proyecto de fin de curso de 1º de DAM
+
+Engloba tres asignaturas:
+
+	Programación
+	Bases de datos
+	Entornos de desarrollo
+
+
+Un saludo
+
+Cualquier comentario
+
+Félix Baltanás
+felixbaltanas@hotmail.com
++34.695.259.350
+

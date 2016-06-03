@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<propietarios>
+<Propietario Codigo="1">
+<Nombre>Félix Baltanás</Nombre>
+<Nif>29104998Q</Nif>
+<Direccion>Asín y Palacios 14 A 6B</Direccion>
+<Telefono>695259350</Telefono>
+<Movil>695259350</Movil>
+<email>felix@tequiero.com</email>
+</Propietario>
+<Propietario Codigo="2">
+<Nombre>Guillermo De Juan</Nombre>
+<Nif>123456789</Nif>
+<Direccion>Duquesa Villahermosa 25</Direccion>
+<Telefono>976012346</Telefono>
+<Movil>666666666</Movil>
+<email>gudejuan@hotmail.es</email>
+</Propietario>
+<Propietario Codigo="4">
+<Nombre>Cristina Barranco</Nombre>
+<Nif>12345678Q</Nif>
+<Direccion>Camino del Vado</Direccion>
+<Telefono>123456789</Telefono>
+<Movil>123456789</Movil>
+<email>yo@sedejava.com</email>
+</Propietario>
+<Propietario Codigo="5">
+<Nombre>Cuatro</Nombre>
+<Nif>44444444g</Nif>
+<Direccion>C/Cuatro</Direccion>
+<Telefono>444444444</Telefono>
+<Movil>444444444</Movil>
+<email>cuatro@cuatro</email>
+</Propietario>
+</propietarios>
